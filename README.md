@@ -7,9 +7,11 @@ The purpose of this project was to analyze weather data in Oahu in order to dete
 ## Results
 
 Summary data for the month of June
+
 ![Screen Shot 2022-03-12 at 11 12 43 AM](https://user-images.githubusercontent.com/96550846/158032084-375a3daa-66be-48f7-9f78-8ba1fab7937e.png)
 
 Summary data for the month of December
+
 ![Screen Shot 2022-03-12 at 11 13 12 AM](https://user-images.githubusercontent.com/96550846/158032095-a7c1386e-0ca8-4098-bf45-11ae958a8204.png)
 
 - The average temperature in June was 74.9 vs 71.0 in December. As expected, June has a higher average temperature, but not by much.
